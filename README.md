@@ -13,7 +13,7 @@ This project analyzes sales data to identify trends, top-performing products, an
 - Category-wise performance analyzed
 
 ## 📸 Dashboard Preview
-![Dashboard](Pictures\dashboard.png)
+![Dashboard](Music/dashboard.png)
 
 ## 📁 Files Included
 - sales_data.xlsx
